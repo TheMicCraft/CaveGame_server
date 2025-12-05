@@ -1,6 +1,221 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adventure-platform-mod.pw.toml"
+hash = "16836308db916c76ba4b25d566c0651d98ec55c1f065dd00a21660db162065cb"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "49a33ac37445e3c08eb1a958b4f81f0c9ce356a8c08ace17e5df98e18558b4b1"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
+metafile = true
+
+[[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "2ce508a2e7433dc80605342a6e3b086af3912d6d18274543c688d41decee9a67"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "02e6878f14640a775c0dcf05461728bf7a0c8f65aba79202e66684614194d6eb"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "b6986c7bdec6840b8a344b4028b0a52be10460f2630223ca88db681b36cd5efa"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "94f43cd957f4c6bbf49b21e0d8eb923ed91fefe0bc2a18a0c75175bf79de5c66"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "b98e0aca52ce8d08ee8df7177886589511b8bca779af078a6ff4837e814bccf4"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "c9127c8a26671e16730352e42f67894eafe69ee54d0640f05d45f95502b817e2"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "524e841aab4137340a1278b681268b024db28e8ad874857f0ada93db77a8d8d3"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "00de73f44c85bbe43476ba1e19098a6d0e2180bec7bdbf8199ff482e21a3a8cc"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "8eb716a02c1a27a81f2d03cec2c989553ad5a54c7380fb7982f83abb51667e79"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ffd2bde70110ba1d26bf841930556307a5bdfa3159b194e6e30ac5192be61754"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+metafile = true
+
+[[files]]
+file = "mods/mods-command.pw.toml"
+hash = "a6ab8a2cd68aee0f284d46ad419039a719dca1c70e41029073c66c2433961436"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "c21e5c7c86e20d26b9936224db71c94558049000dbf2481f3f1649a62b41f2a1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "a3b275726e1953dd46c5ef4637d2ab82500c9b58be1c25325a704a9423c5deba"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d788235233cd7bb10444760f354161d730ce1c504976cfdf91bd26fcd05c9e26"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ab077e767cf4974b5225967f690be78e994b8cc6c7ce6411060f303e7173fd19"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "a3618f091f8709d020b68373e18252ba4cbe02158d30fd1eac91b2163be6f957"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "c9fd548aa345384fe05cc143a191e6e507a07c20a08f31562966f5423a4e39d9"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
+metafile = true
+
+[[files]]
+file = "mods/squaremap.pw.toml"
+hash = "baa82dd9ab7c57df3730ea73277c1b879888f0114305584d33e6c7b0d30ea6ca"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "9a1695184cdb4646ae5deef3ed576e7dc1235cff1ff20493aa482a2c512928b0"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "cde3e240409c0c492fae69a295ce7a2c4ae4588b5b2fbc110a556249205126ff"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "993390d4661a77aa83c8416f75addfccaf7cee0a7a7311a21742b2036700b5ac"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "53c8bc02c9b10610c43fc29127039036217e33a95ab2ea2d6ac291987266ef89"
 metafile = true
