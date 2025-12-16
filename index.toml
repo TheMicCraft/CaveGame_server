@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "bf2fe1ad823f0f3b50605274e759dd308116a3d1d3ea9a64291d2ce1b90001da"
+hash = "be9154582d65247e9ae5e8ac5d11d60f93c2805a544e41ff2890935c31b0f74a"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "a3618f091f8709d020b68373e18252ba4cbe02158d30fd1eac91b2163be6f957"
+hash = "40851322be130d051190af0a939c36799d676e94c1ae3e555eacefe1ff28648c"
 metafile = true
 
 [[files]]
