@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
+hash = "0a12f0ee21196d7b67ea4904c229b2972358bd8e2189cc481da163b848494c78"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "e89f1aa5487d45cff6f0ca7623ab824f4b45cf4624972c39391e7f9de1d7d7d4"
+hash = "8d5e521dd035e22c04cd9f5f57e75fb6b397f585d230470c81a0c0def09a75e5"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "ab077e767cf4974b5225967f690be78e994b8cc6c7ce6411060f303e7173fd19"
+hash = "59d6517f845164630fc10a641d2e8a3a07206e7bd9491ea58d8edddb93107264"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "69786785c676fc55890792c5906fa360b34a89dd76d072eec30294b49155c00d"
+hash = "a2f4d9dda96c16714c36b3ad813e1d720dd6d8d4bf87e5c0bbc7bf54ed62540e"
 metafile = true
 
 [[files]]
@@ -212,10 +212,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7fa2203f3a2513140f83a68efa7aa2d08057ff7d459d473c94c3aece78cf3273"
+hash = "6b3f90c5a1f2c0e726010893e2dc6751a9614c30323b8b2cfd07b2f5a7728a3d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9d1bc91cd912ab9f46ee36387f0c43eac91f2a4601167ebc574c8a7978ae3d34"
+hash = "a7ee69b752489e4dbcbe696e85bfb35670f8d6e785b63356d0645acffcb1786e"
 metafile = true
