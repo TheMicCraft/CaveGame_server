@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "ecfa58e7dc4f435480ddb8684507c797ddb73ee3a8f6d61ca5ac2f86b6b54de9"
+hash = "89a8d009ef7dfb9fa27f06c55a8ae5915437fdb23a8d4938132d2d7ef5d9b9bf"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+hash = "4549e2a768f2a3d307e7be44d3e3ae620315666810f2ceb77e0c5f7d677195c2"
 metafile = true
 
 [[files]]
