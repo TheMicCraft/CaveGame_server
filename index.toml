@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "274df87e6e32a96bab2135eae4aecb2f42c8df3829ce553c59e989eb022bdd12"
+hash = "a4ed3e09d1cf6e920142ca63ed699950c456af666f6339f7d723fd2f50134128"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
@@ -212,10 +212,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6b3f90c5a1f2c0e726010893e2dc6751a9614c30323b8b2cfd07b2f5a7728a3d"
+hash = "361986055445d4bc51c04fef877501e7791ee361d3cccedced7344b17d70f8c4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a7ee69b752489e4dbcbe696e85bfb35670f8d6e785b63356d0645acffcb1786e"
+hash = "428c9b21e6c1cccaa18ab2afcba72b0bef30aa81cb392d8624699fe5934600b6"
 metafile = true
