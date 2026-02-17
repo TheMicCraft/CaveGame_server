@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "89a8d009ef7dfb9fa27f06c55a8ae5915437fdb23a8d4938132d2d7ef5d9b9bf"
+hash = "1da3968005c6c75dc95949cecd2a8b3e55bdb1e6f86a9fc0716380a56c473793"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "a4ed3e09d1cf6e920142ca63ed699950c456af666f6339f7d723fd2f50134128"
+hash = "f6807508d3f757d963fec76dd04825ed64b0224907af4671ce0716d0358b2029"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a2f4d9dda96c16714c36b3ad813e1d720dd6d8d4bf87e5c0bbc7bf54ed62540e"
+hash = "44acdef628ff0435c751b93100dd1a3dfabd263039003d39b20cb6f35110060f"
 metafile = true
 
 [[files]]
