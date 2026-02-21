@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "f6807508d3f757d963fec76dd04825ed64b0224907af4671ce0716d0358b2029"
+hash = "64ad73b1dbc5abf825df66dc849d19b1287454c6989f24be37b6064cd836d7d0"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "d788235233cd7bb10444760f354161d730ce1c504976cfdf91bd26fcd05c9e26"
+hash = "56367cd00da52b2abd94a1d9abae77521f3db0a9628129b346bf5f75c2fbdd51"
 metafile = true
 
 [[files]]
